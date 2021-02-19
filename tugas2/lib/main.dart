@@ -54,7 +54,7 @@ class MyApp extends StatelessWidget {
                               new SvgPicture.asset(
                                 'assets/icons/fast-food.svg',
                                 height: 100,
-                                width: 100,
+                                width: 90,
                                 allowDrawingOutsideViewBox: true,
                               ),
                               new Text('Menu utama',
